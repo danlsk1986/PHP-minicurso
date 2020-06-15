@@ -9,6 +9,7 @@ html {
 
 body {
   background-color: orange;
+  font-family: 'Proza Libre', sans-serif;
 }
 .contenedor {
   max-width:1000px;
