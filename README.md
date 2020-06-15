@@ -18,3 +18,8 @@ Indice:
 #clase_14: 'Verificando valores dentro de un array con in_array'
 #clase_15: 'Foreach'
 #clase_16: 'Foreach con Arreglo dimensionales'
+#clase_17: 'For en PHP'
+#clase_18: 'While en PHP'
+#clase_19: 'Funciones en PHP'
+#clase_20: 'Funciones con argumentos'
+#clase_21: 'Funciones que retornan valores'
