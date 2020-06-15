@@ -25,3 +25,4 @@ Indice:
 #clase_21: 'Funciones que retornan valores'<br>
 #clase_22: 'Valores por defecto en funciones'<br>
 #clase_23: 'Guardando datos en un arreglo mediante una funcion'<br>
+#clase_24: 'Query Strings'
