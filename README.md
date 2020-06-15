@@ -2,7 +2,7 @@
 
 Indice:
 
-#clase_01: 'Hola mundo'
+#clase_01: 'Hola mundo'<br>
 #clase_02: 'Variables en PHP'
 #clase_03: 'Concatenando valores'
 #clase_04: 'PHP en HTML o HTML en PHP'
