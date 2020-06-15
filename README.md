@@ -23,3 +23,4 @@ Indice:
 #clase_19: 'Funciones en PHP'
 #clase_20: 'Funciones con argumentos'
 #clase_21: 'Funciones que retornan valores'
+#clase_22: 'Valores por defecto en funciones'
